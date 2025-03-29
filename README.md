@@ -1,6 +1,4 @@
 
-
-      [<img src="https://github.com/githubusername/githubusername/blob/main/stats.svg" width="55%">](https://www.dsastats.site)
 <!--
 **Shreytan/Shreytan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
