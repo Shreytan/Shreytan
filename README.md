@@ -16,7 +16,7 @@
 📈 GitHub Metrics
 <p align="center"> <img src="https://github-readme-metrics.vercel.app/api?username=Shreytan&theme=radical&hide_border=true" /> </p>
 🖥️ DSA Stats
-<p align="center"> <img align="center" alt="DSA Stats" width="22px" src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" /> <br /> <a href="https://www.dsastats.site"> <img src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" width="55%"> </a> </p>
+<p align="center">  <img src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" width="55%"> </a> </p>
 🎯 Let's Connect!
 📩 Email: shreyansh@example.com
 🔗 LinkedIn: Shreyansh Shukla
