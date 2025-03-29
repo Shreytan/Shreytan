@@ -1,0 +1,35 @@
+name: Update Stats Card
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 14 * * *" # Runs every day at 8:00 PM IST (14:00 UTC)
+
+jobs:
+  update-stats-card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Stats and Save SVG
+        run: |
+          # Replace {YOUR_GITHUB_USERNAME} with your actual username
+          curl -o stats.svg "https://www.dsastats.site/api/codolio/{ShreyanSHukla}"
+
+      - name: Force Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          git add stats.svg
+          git commit -m "Update stats card $(date +'%Y-%m-%d %H:%M:%S')"
+
+          git pull --rebase
+          git push origin main
