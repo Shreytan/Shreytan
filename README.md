@@ -23,9 +23,12 @@ Automatic Insights from My GitHub Activity
 
 <p align="center"> <img align="center" alt="DSA Stats" width="22px" src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" /> <br /> <a href="https://www.dsastats.site"> <img src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" width="55%"> </a> </p>
 🤝 Let's Connect!
-📩 Email: ✉️ shreyansh@example.com
-🔗 LinkedIn: 🔗 Shreyansh Shukla
-💻 GitHub: 💻 Shreytan
 
+📩 Email: ✉️ shreyansh@example.com
+<br>
+🔗 LinkedIn: 🔗 Shreyansh Shukla
+<br>
+💻 GitHub: 💻 Shreytan
+<br>
 ❤️ Thank You for Visiting!
 ⭐ If you enjoy my work, consider following and starring my repositories!
