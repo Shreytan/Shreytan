@@ -1,5 +1,5 @@
 
- <img align="center" alt="DSA Stats" width="22px" src="https://github.com/githubusername/githubusername/blob/main/stats.svg" />
+ ![Dynamic Stats](https://github.com/githubusername/githubusername/blob/main/stats.svg)
 
       [<img src="https://github.com/githubusername/githubusername/blob/main/stats.svg" width="55%">](https://www.dsastats.site)
 <!--
