@@ -15,9 +15,10 @@ See my coding activity visually!
 📊 GitHub Metrics
 Automatic Insights from My GitHub Activity
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/Shreytan?template=classic&base.community=1&base.repositories=0&base.metadata=0&languages=1&followup=1&isocalendar=1&achievements=1&notable=1&repositories=100&repositories.batch=100" />
-</p>
+![GitHub Followers](https://img.shields.io/github/followers/Shreytan?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Shreytan?style=social)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/w/Shreytan/Cohort-2.0)
+
 
 ⚡ Profile Views Counter
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shreytan&label=Profile%20Views&color=ff69b4&style=flat" /> </p>
