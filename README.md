@@ -14,10 +14,10 @@ See my coding activity visually!
 <p align="center"> <img src="https://leetcard.jacoblin.cool/Shreytan?theme=dark&ext=heatmap" /> </p>
 📊 GitHub Metrics
 Automatic Insights from My GitHub Activity
-
-![GitHub Followers](https://img.shields.io/github/followers/Shreytan?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Shreytan?style=social)
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/w/Shreytan/Cohort-2.0)
+<br>
+![GitHub Followers](https://img.shields.io/github/followers/Shreytan?style=social)<br>
+![GitHub Stars](https://img.shields.io/github/stars/Shreytan?style=social)<br>
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/w/Shreytan/Cohort-2.0)<br>
 
 
 ⚡ Profile Views Counter
