@@ -1,39 +1,43 @@
  name: Update Stats Card
-        
-        permissions:
-          contents: write
-        
-        on:
-          workflow_dispatch:
-          push:
-            branches:
-              - main
-          schedule:
-            - cron: "0 8 * * *" # This will run the workflow every day 8:00 pm IST
-        
-        jobs:
-          update-stats-card:
-            runs-on: ubuntu-latest
-            steps:
-              - name: Checkout repository
-                uses: actions/checkout@v3
-        
-              - name: Fetch Stats and Save SVG
-                run: |
-                  # Fetch the latest stats card as an SVG
-                  curl -o stats.svg https://www.dsastats.site/api/codolio/ShreyanSHukla
-                  
-              - name: Force Commit changes
-                run: |
-                  git config --global user.name 'github-actions[bot]'
-                  git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-                  
-                  # Add a timestamp to the commit message to ensure a new commit is created
-                  git add stats.svg
-                  git commit -m "Update stats card $(date +'%Y-%m-%d %H:%M:%S')"
-                  
-                  # Pull latest changes from remote to avoid conflicts
-                  git pull --rebase
-                  
-                  # Push the changes to the remote repository
-                  git push
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 8 * * *" # This will run the workflow every day at 8:00 AM UTC (1:30 PM IST)
+
+jobs:
+  update-stats-card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Stats and Save SVG
+        run: |
+          # Fetch the latest stats card as an SVG
+          curl -o stats.svg --fail --silent --show-error https://www.dsastats.site/api/codolio/ShreyanSHukla
+          if [ ! -s stats.svg ]; then
+            echo "No stats SVG returned or link inaccessible. Aborting workflow."
+            exit 1
+          fi
+
+      - name: Force Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Ensure we have the latest code
+          git pull --rebase
+          
+          # Add and commit the stats.svg file
+          git add stats.svg
+          git commit -m "Update stats card $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+          
+          # Push the changes to the remote repository
+          git push
