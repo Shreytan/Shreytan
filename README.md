@@ -24,8 +24,11 @@ Automatic Insights from My GitHub Activity
 ### 🔥 LeetCode Heatmap  
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Shreytan?theme=dark&ext=heatmap)
 
+### 📊 GitHub Metrics  
+![GitHub Metrics](https://github.com/Shreytan/Cohort-2.0/blob/main/github-metrics.svg)
 
 🤝 Let's Connect!
+
 
 📩 Email: ✉️ shreyanshshukla7@gmail.com
 <br>
