@@ -25,7 +25,7 @@ Automatic Insights from My GitHub Activity
 🚀 DSA Stats
 📊 Algorithm Mastery | Competitive Programming Progress
 
-<p align="center"> <img align="center" alt="DSA Stats" width="22px" src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" /> <br /> <a href="https://www.dsastats.site"> <img src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" width="55%"> </a> </p>
+<p align="center"> <a href="https://www.dsastats.site"> <img src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" width="55%"> </a> </p>
 🤝 Let's Connect!
 
 📩 Email: ✉️ shreyanshshukla7@gmail.com
