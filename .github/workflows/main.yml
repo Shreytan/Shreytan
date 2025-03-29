@@ -1,0 +1,30 @@
+name: leetcode heatmap by dsaStats.site
+                        on:
+                          schedule:
+                          - cron: "0 22 * * *" # Runs at 10 PM
+                          workflow_dispatch: # Allows manual triggering of the workflow
+                        
+                        jobs:
+                          update-image:
+                            runs-on: ubuntu-latest
+                        
+                            steps:
+                              - name: Checkout Repository
+                                uses: actions/checkout@v3
+                        
+                              - name: Fetch Image from API
+                                run: |
+                                  curl -o leetcodeHeatmap.png --fail --silent --show-error https://www.dsastats.site/api/lcheatmap/{Shreytan}
+                                  if [ ! -s leetcodeHeatmap.png ]; then
+                                    echo "No image returned or link inaccessible. Aborting workflow."
+                                    exit 1
+                                  fi
+                        
+                              - name: Commit and Push Image
+                                if: success()
+                                uses: EndBug/add-and-commit@v9
+                                with:
+                                  author_name: 'GitHub Actions'
+                                  author_email: 'actions@github.com'
+                                  message: 'Update LeetCode Heatmap image'
+                                  add: 'leetcodeHeatmap.png'
