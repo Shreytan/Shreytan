@@ -1,4 +1,4 @@
- name: Update Stats Card
+name: Update Stats Card
 
 permissions:
   contents: write
@@ -9,7 +9,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 8 * * *" # This will run the workflow every day at 8:00 AM UTC (1:30 PM IST)
+    - cron: "0 8 * * *" # Runs every day at 8:00 AM UTC (1:30 PM IST)
 
 jobs:
   update-stats-card:
@@ -31,8 +31,8 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Ensure we have the latest code
+
+          # Ensure the latest code is present
           git pull --rebase
           
           # Add and commit the stats.svg file
