@@ -9,7 +9,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 8 * * *" # Runs every day at 8:00 AM UTC (1:30 PM IST)
+    - cron: "0 23 * * *" # Runs every day at 8:00 AM UTC (1:30 PM IST)
 
 jobs:
   update-stats-card:
