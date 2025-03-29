@@ -8,10 +8,7 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Shreytan&theme=onestar&margin-w=10" /> </p>
 📌 Repository Insights
 <p align="center"> <img src="https://img.shields.io/github/stars/Shreytan/Cohort-2.0?style=for-the-badge&color=ff69b4" /> <img src="https://img.shields.io/github/forks/Shreytan/Cohort-2.0?style=for-the-badge&color=blue" /> </p>
-🔥 LeetCode Heatmap
-See my coding activity visually!
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/Shreytan?theme=dark&ext=heatmap" /> </p>
 📊 GitHub Metrics
 Automatic Insights from My GitHub Activity
 
