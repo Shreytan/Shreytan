@@ -1,22 +1,19 @@
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Shreytan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreytan&layout=compact&theme=midnight-purple" />
+🚀 GitHub Stats & Contributions
+🔥 Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreytan&theme=tokyonight&hide_border=true" />
+📈 GitHub Contribution Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Shreytan&show_icons=true&theme=tokyonight&hide_border=true" />
+🌟 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreytan&layout=compact&theme=tokyonight&hide_border=true" />
+🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Shreytan&theme=tokyonight&no-frame=true&margin-w=15" />
+⭐ Repository Stars & Forks
+<img src="https://img.shields.io/github/stars/Shreytan/Cohort-2.0?style=for-the-badge&color=blueviolet" /> <img src="https://img.shields.io/github/forks/Shreytan/Cohort-2.0?style=for-the-badge&color=blue" />
+📝 Replace Repo-Name with your actual repository name.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreytan&theme=midnight-purple" />
-
-
-
-[<img src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" width="55%">](https://www.dsastats.site)
-<!--
-**Shreytan/Shreytan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 Profile Views Counter
+<img src="https://komarev.com/ghpvc/?username=Shreytan&label=Profile%20Views&color=blueviolet&style=flat" />
+🔗 LeetCode Heatmap
+<img src="https://www.dsastats.site/api/lcheatmap/Shreytan" />
+📊 GitHub Metrics
+<img src="https://github-readme-metrics.vercel.app/api?username=Shreytan&theme=tokyonight&hide_border=true" />
