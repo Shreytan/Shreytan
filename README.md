@@ -1,6 +1,7 @@
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Shreytan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreytan&layout=compact&theme=midnight-purple" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreytan&theme=midnight-purple" />
 
 
 
