@@ -1,8 +1,8 @@
-name: leetcode heatmap by dsaStats.site
+name: LeetCode Heatmap by dsaStats.site
 
 on:
   schedule:
-    - cron: "0 22 * * *" # Runs at 10 PM UTC
+    - cron: "0 22 * * *" # Runs at 10 PM
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
@@ -15,17 +15,19 @@ jobs:
 
       - name: Fetch Image from API
         run: |
-          curl -o leetcodeHeatmap.png --fail --silent --show-error https://www.dsastats.site/api/lcheatmap/leetcodeusername
+          curl -o leetcodeHeatmap.png --fail --silent --show-error https://www.dsastats.site/api/lcheatmap/{leetcodeusername}
           if [ ! -s leetcodeHeatmap.png ]; then
             echo "No image returned or link inaccessible. Aborting workflow."
             exit 1
           fi
 
       - name: Commit and Push Image
-        if: success()
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: "GitHub Actions"
-          author_email: "actions@github.com"
-          message: "Update LeetCode Heatmap image"
-          add: "leetcodeHeatmap.png"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }} # Using Personal Access Token
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add leetcodeHeatmap.png
+          git commit -m "Update LeetCode Heatmap image $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+          git pull --rebase
+          git push https://Shreytan:${{ secrets.GH_PAT }}@github.com/Shreytan/Shreytan.git main
