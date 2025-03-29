@@ -1,4 +1,4 @@
-<img align="center" alt="DSA Stats" width="22px" src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" />
+
 
 [<img src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" width="55%">](https://www.dsastats.site)
 <!--
