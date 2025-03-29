@@ -1,4 +1,4 @@
-# Namaste! I am Shreyansh, It's a pleasure to see you over my profile! 👋
+# I am Shreyansh 👋
 
 <p align="center">
   <img src="https://www.dsastats.site/api/codolio/ShreyanSHukla" alt="Shreyansh's GitHub Stats" />
