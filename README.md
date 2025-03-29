@@ -24,8 +24,9 @@ Automatic Insights from My GitHub Activity
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shreytan&label=Profile%20Views&color=ff69b4&style=flat" /> </p>
 
 
-### 🚀 My LeetCode Stats  
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Shreytan?theme=dark)
+### 🔥 LeetCode Heatmap  
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Shreytan?theme=dark&ext=heatmap)
+
 
 🤝 Let's Connect!
 
