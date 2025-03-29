@@ -8,15 +8,15 @@
 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Shreytan&theme=radical&no-frame=true&margin-w=15" /> </p>
 🌟 Repository Insights
-<p align="center"> <img src="https://img.shields.io/github/stars/Shreytan/Repo-Name?style=for-the-badge&color=blueviolet" /> <img src="https://img.shields.io/github/forks/Shreytan/Repo-Name?style=for-the-badge&color=blue" /> </p>
-📝 Replace Repo-Name with your actual repository name.
-
+<p align="center"> <img src="https://img.shields.io/github/stars/Shreytan/Cohort-2.0?style=for-the-badge&color=blueviolet" /> <img src="https://img.shields.io/github/forks/Shreytan/Cohort-2.0?style=for-the-badge&color=blue" /> </p>
 👀 Profile Views Counter
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shreytan&label=Profile%20Views&color=blueviolet&style=flat" /> </p>
-🔗 LeetCode Heatmap
+📊 LeetCode Heatmap
 <p align="center"> <img src="https://www.dsastats.site/api/lcheatmap/Shreytan" /> </p>
-📊 GitHub Metrics
+📈 GitHub Metrics
 <p align="center"> <img src="https://github-readme-metrics.vercel.app/api?username=Shreytan&theme=radical&hide_border=true" /> </p>
+🖥️ DSA Stats
+<p align="center"> <img align="center" alt="DSA Stats" width="22px" src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" /> <br /> <a href="https://www.dsastats.site"> <img src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" width="55%"> </a> </p>
 🎯 Let's Connect!
 📩 Email: shreyansh@example.com
 🔗 LinkedIn: Shreyansh Shukla
@@ -24,4 +24,3 @@
 
 🖤 Thanks for Visiting!
 If you like my work, don't forget to ⭐ my repositories and connect with me!
-
