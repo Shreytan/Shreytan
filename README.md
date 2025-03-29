@@ -22,10 +22,11 @@ Automatic Insights from My GitHub Activity
 
 ⚡ Profile Views Counter
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shreytan&label=Profile%20Views&color=ff69b4&style=flat" /> </p>
-🚀 DSA Stats
-📊 Algorithm Mastery | Competitive Programming Progress
 
-<p align="center"> <a href="https://www.dsastats.site"> <img src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" width="55%"> </a> </p>
+
+### 🚀 My LeetCode Stats  
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Shreytan?theme=dark)
+
 🤝 Let's Connect!
 
 📩 Email: ✉️ shreyanshshukla7@gmail.com
