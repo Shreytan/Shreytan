@@ -15,7 +15,10 @@ See my coding activity visually!
 📊 GitHub Metrics
 Automatic Insights from My GitHub Activity
 
-<p align="center"> <img src="https://github-readme-metrics.vercel.app/api?username=Shreytan&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://metrics.lecoq.io/Shreytan?template=classic&base.community=1&base.repositories=0&base.metadata=0&languages=1&followup=1&isocalendar=1&achievements=1&notable=1&repositories=100&repositories.batch=100" />
+</p>
+
 ⚡ Profile Views Counter
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shreytan&label=Profile%20Views&color=ff69b4&style=flat" /> </p>
 🚀 DSA Stats
@@ -24,11 +27,7 @@ Automatic Insights from My GitHub Activity
 <p align="center"> <img align="center" alt="DSA Stats" width="22px" src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" /> <br /> <a href="https://www.dsastats.site"> <img src="https://github.com/Shreytan/Shreytan/blob/main/stats.svg" width="55%"> </a> </p>
 🤝 Let's Connect!
 
-📩 Email: ✉️ shreyansh@example.com
-<br>
-🔗 LinkedIn: 🔗 Shreyansh Shukla
-<br>
-💻 GitHub: 💻 Shreytan
+📩 Email: ✉️ shreyanshshukla7@gmail.com
 <br>
 ❤️ Thank You for Visiting!
 ⭐ If you enjoy my work, consider following and starring my repositories!
