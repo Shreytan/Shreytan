@@ -24,8 +24,9 @@ Automatic Insights from My GitHub Activity
 ### 🔥 LeetCode Heatmap  
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Shreytan?theme=dark&ext=heatmap)
 
-### 📊 GitHub Metrics  
-![GitHub Metrics](https://github.com/Shreytan/Cohort-2.0/blob/main/github-metrics.svg)
+### My Contributions
+![3D Contribution Graph](https://github.com/Shreytan/Shreytan/blob/output/github-contribution-grid-snake.svg)
+
 
 🤝 Let's Connect!
 
