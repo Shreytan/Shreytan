@@ -1,5 +1,5 @@
 🌟 Shreyansh | Full-Stack Developer | Problem Solver
-🚀 "Transforming Ideas into Reality, One Line of Code at a Time."
+🚀 "PROGRAMMER."
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=👋+Welcome+to+My+GitHub!;🔥+Code.+Solve.+Repeat.;🌍+Open+Source+Enthusiast!;💡+Building+Scalable+Web+Apps!;🚀+Let's+Innovate+Together!" /> </p>
 🎯 My GitHub Stats & Contributions
