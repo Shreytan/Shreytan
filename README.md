@@ -25,7 +25,7 @@ Automatic Insights from My GitHub Activity
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Shreytan?theme=dark&ext=heatmap)
 
 ### My Contributions
-![Wave Contribution Graph](https://github.com/Shreytan/Shreytan/blob/output/github-contribution-wave.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreytan&theme=dracula)
 
 
 
