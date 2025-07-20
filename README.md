@@ -20,10 +20,6 @@ Automatic Insights from My GitHub Activity
 ⚡ Profile Views Counter
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shreytan&label=Profile%20Views&color=ff69b4&style=flat" /> </p>
 
-
-### 🔥 LeetCode Heatmap  
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/shreyansh_shukla1612/?theme=dark&ext=heatmap)
-
 ### My Contributions
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreytan&theme=dracula)
 
