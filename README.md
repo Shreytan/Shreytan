@@ -22,7 +22,7 @@ Automatic Insights from My GitHub Activity
 
 
 ### 🔥 LeetCode Heatmap  
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/Shreytan?theme=dark&ext=heatmap)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/shreyansh_shukla1612/?theme=dark&ext=heatmap)
 
 ### My Contributions
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreytan&theme=dracula)
