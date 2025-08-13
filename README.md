@@ -78,7 +78,12 @@ Tools & Cloud
 
 🎯 Problem Solving & Competitive Programming
 <div align="center">
-<img src="https://www.google.com/search?q=https://leetcode-stats.vercel.app/api/shreyansh_shukla1612%3Ftheme%3Ddark%26hide_border%3Dtrue" alt="Shreyansh's LeetCode Stats" width="400"/>
+<a href="https://leetcode.com/u/shreyansh_shukla1612/">
+<img src="https://www.google.com/search?q=https://leetcode-stats.vercel.app/api/shreyansh_shukla1612%3Ftheme%3Ddark%26hide_border%3Dtrue" alt="Shreyansh's LeetCode Stats" height="170px"/>
+</a>
+<a href="https://www.google.com/search?q=https://codolio.com/profile/ZJQPagIV">
+<img src="https://www.google.com/search?q=https://codolio.com/profile/ZJQPagIV/card" alt="Shreyansh's Codolio Stats" height="170px"/>
+</a>
 </div>
 
 📊 My GitHub Stats & Activity
