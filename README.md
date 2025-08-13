@@ -23,9 +23,7 @@ Problem Solving
   <a href="https://leetcode.com/u/shreyansh_shukla1612/">
     <img src="https://leetcard.jacoblin.cool/shreyansh_shukla1612?theme=dark" alt="LeetCode Stats" height="170">
   </a>
-<a href="https://codolio.com/profile/ZJQPagIV">
-<img src="https://codolio.com/profile/ZJQPagIV/card" alt="Codolio Stats" height="170">
-</a>
+
 </div>
 
 GitHub Stats & Activity
