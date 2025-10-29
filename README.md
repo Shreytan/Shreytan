@@ -15,7 +15,7 @@ Full-Stack Developer | Competitive Programmer | Innovator
 </div>
 
 
-[![My Holopin Badge](https://assets.holopin.io/badges/cmhbuqmkx001lik04so43u4f1.png)](https://holopin.io/@shreytan)
+[![My Holopin Badge](https://assets.holopin.io/badges/cmhbuqmkx001lik04so43u4f1.png)](https://holopin.io/@Shreytan)
 
 👨‍💻 About Me
 
