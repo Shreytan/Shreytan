@@ -14,8 +14,8 @@ Full-Stack Developer | Competitive Programmer | Innovator
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=console.log(%22Hello,+World!%22);Building+robust+and+scalable+solutions.;Turning+coffee+into+clean,+efficient+code.;Let's+build+something+amazing+together!" alt="Typing SVG">
 </div>
 
-[![My Holopin Badge](https://holopin.me/cmhbuqmkx001lik04so43u4f1)](https://holopin.io/@shreytan)
 
+[![My Holopin Badge](https://assets.holopin.io/badges/cmhbuqmkx001lik04so43u4f1.png)](https://holopin.io/@shreytan)
 
 👨‍💻 About Me
 
