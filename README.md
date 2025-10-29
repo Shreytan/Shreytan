@@ -14,6 +14,10 @@ Full-Stack Developer | Competitive Programmer | Innovator
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=console.log(%22Hello,+World!%22);Building+robust+and+scalable+solutions.;Turning+coffee+into+clean,+efficient+code.;Let's+build+something+amazing+together!" alt="Typing SVG">
 </div>
 
+[![An image of @shreytan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreytan)](https://holopin.io/@shreytan)
+
+
+
 👨‍💻 About Me
 
 I'm a final-year Computer Science student and a passionate Full-Stack Developer from India. I thrive on solving complex problems and building applications that are not only functional but also efficient and scalable.
